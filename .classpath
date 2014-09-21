@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/aws-java-sdk/aws-java-sdk/1.8.10.2/4ffddd59368107cd403d19b5487846e0f143f6d9/aws-java-sdk-1.8.10.2-sources.jar" kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/aws-java-sdk/aws-java-sdk/1.8.10.2/a7b610b8808837e7351d42d36ea766c4e957f9d9/aws-java-sdk-1.8.10.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/2d859791fbf7d880591864bd4004d8442a8a3b81/commons-logging-1.1.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/jackson-databind/jackson-databind/2.1.1/7c6563598bcdab9ef2f28cd09ffc750a6ae61bef/jackson-databind-2.1.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/jackson-core/jackson-core/2.1.1/406cc89860cc70c3d072a174e810de890e2f03ef/jackson-core-2.1.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/jackson-annotations/jackson-annotations/2.1.1/1e72e7fb2b84f537af4278072bee514724d8d764/jackson-annotations-2.1.1.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.3/6a91a27c5c07e9da44eeddbc4206e349735b26f4/httpclient-4.2.3.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.2/a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d/joda-time-2.2.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.2/f09ea7959e73a80f51429a0387dc9e66d9e27cd9/httpcore-4.2.2-sources.jar" kind="lib" path="C:/Users/Rishi/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.2/b76bee23cd3f3ee9b98bc7c2c14670e821ddbbfd/httpcore-4.2.2.jar" exported="true"/>
+</classpath>
