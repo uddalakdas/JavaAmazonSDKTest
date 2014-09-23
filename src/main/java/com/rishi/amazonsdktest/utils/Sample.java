@@ -3,6 +3,7 @@ import com.amazonaws.AmazonClientException;
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.profile.ProfileCredentialsProvider;
 import com.rishi.amazonsdktest.CheckEc2Instances;
+import com.rishi.amazonsdktest.CreateEc2Instance;
 public class Sample {
 	static AWSCredentials credentials = null;
 	public static void init(){
@@ -29,6 +30,10 @@ public class Sample {
 		
         CheckEc2Instances ec2Instances = new CheckEc2Instances(credentials);
 		ec2Instances.checkEc2Instance();
+		CreateEc2Instance createInstances = new CreateEc2Instance(credentials);
+		String instanceDns = createInstances.createInstance();
+		System.out.println("DNS - "+instanceDns);
+		
 
 	}
 
