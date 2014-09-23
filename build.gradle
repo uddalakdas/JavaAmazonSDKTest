@@ -19,6 +19,6 @@ apply plugin: 'application'
 		compile(group: 'joda-time', name: 'joda-time', version: '2.2')
 		//compile(group: 'freemarker', name: 'freemarker', version: '2.3.18')
 	}
-mainClassName = "com.rishi.amazonsdktest.CheckEc2Instances"
+mainClassName = "com.rishi.amazonsdktest.utils.Sample"
 version = '0.1.0'
 group = 'com.rishi.amazonsdktest'
